@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="azuredtuspring" name="azuredtuspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/platform/azuredtu/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/platform/azuredtu/resources/azuredtu-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../modules/platform/azuredtu/lib" recursive="true" />
+      </library>
+    </orderEntry>
+  </component>
+</module>

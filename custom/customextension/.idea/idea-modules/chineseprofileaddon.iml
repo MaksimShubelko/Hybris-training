@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chineseprofileaddonspring" name="chineseprofileaddonspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/resources/chineseprofileaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-people-profile/deprecated/chineseprofileaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

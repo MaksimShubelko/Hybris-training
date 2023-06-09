@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="b2bordermanagementfacadesspring" name="b2bordermanagementfacadesspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/resources/b2bordermanagementfacades-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/order-management/b2bordermanagementfacades/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

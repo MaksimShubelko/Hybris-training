@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="customercouponsamplesaddonspring" name="customercouponsamplesaddonspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/resources/customercouponsamplesaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/customer-coupon/deprecated/customercouponsamplesaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

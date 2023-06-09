@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chinesepaymentoccaddonspring" name="chinesepaymentoccaddonspring" removed="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-payment/deprecated/chinesepaymentoccaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chineseaddressaddonspring" name="chineseaddressaddonspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/resources/chineseaddressaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-address/deprecated/chineseaddressaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

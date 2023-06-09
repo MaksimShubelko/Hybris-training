@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="chinesetaxinvoiceocctestsspring" name="chinesetaxinvoiceocctestsspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/resources/chinesetaxinvoiceocctests-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/china-accelerator-tax-invoice/chinesetaxinvoiceocctests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

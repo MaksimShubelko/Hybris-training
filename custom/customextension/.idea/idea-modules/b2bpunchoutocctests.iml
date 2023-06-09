@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="b2bpunchoutocctestsspring" name="b2bpunchoutocctestsspring" removed="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/b2b-punchout/b2bpunchoutocctests/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

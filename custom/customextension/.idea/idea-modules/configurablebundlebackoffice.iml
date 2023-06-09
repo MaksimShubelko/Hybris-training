@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="configurablebundlebackofficespring" name="configurablebundlebackofficespring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/resources/configurablebundlebackoffice-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/resources/configurablebundlebackoffice-backoffice-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/bin/configurablebundlebackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/bin/configurablebundlebackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/bin/configurablebundlebackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../../../modules/configurable-bundle/configurablebundlebackoffice/bin/configurablebundlebackofficeserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

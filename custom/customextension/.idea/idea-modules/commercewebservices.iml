@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/resources" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/src" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/kotlinsrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/src" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/groovysrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/kotlinsrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/scalasrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/gensrc" />
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/backoffice/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="commercewebservicesspring" name="commercewebservicesspring" removed="false">
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/resources/commercewebservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/commercewebservices-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/dto-level-mappings-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/dto-mappings-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/jaxb-converters-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/error-config-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/filter-config-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/security-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/v2/validators-v2-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common-web-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common/xstream-converters-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common/cache-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common/error-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common/filter-config-spring.xml</file>
+          <file>file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/config/common/security-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/backoffice/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/groovysrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/kotlinsrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/kotlintestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/scalasrc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/scalatestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../../modules/commerce-services/commercewebservices/web/webroot/WEB-INF/lib" recursive="true" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
