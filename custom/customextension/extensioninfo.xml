@@ -5,34 +5,17 @@
            
     
     <extension abstractclassprefix="Generated" classprefix="Customextension" jaloLogicFree="true" managername="CustomextensionManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="customextension" usemaven="false">
-                  
-      
-        
+
         <!-- for more information on maven managed libraries please consult https://wiki.hybris.com/x/Nq8sDQ -->
-                               
-      
-        
+
         <!-- you should add all required extensions to this list, except platform extensions which are automatically required -->
-                         
-      
-        
-        <!-- <requires-extension name="cms"/> -->
-                         
-      
 
-      
-        
+        <requires-extension name="cms2lib"/>
+
         <coremodule generated="true" manager="org.customextension.jalo.CustomextensionManager" packageroot="org.customextension"/>
-                      
-        
-        <webmodule jspcompile="false" webroot="/customextension"/>
-                					
-	
-        
-           
-    
-    </extension>
-              
 
+        <webmodule jspcompile="false" webroot="/customextension"/>
+
+    </extension>
 
 </extensioninfo>
